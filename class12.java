@@ -3,15 +3,15 @@ class CWin{
 	int height;
 	String name;
 	
-	void setW(int w)//設定寬度的函數
+	void setW(int w)
 	{
 		width=w;
 	}
-	void setH(int h)//設定高度的函數
+	void setH(int h)
 	{
 		height=h;
 	}
-	void setName(String s)//設定視窗名稱
+	void setName(String s)
 	{
 		name=s;
 	}
